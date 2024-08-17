@@ -1,2 +1,4 @@
 # Image-Processing-Techniques
-A repository showcasing various image processing techniques, including histogram analysis, color and grayscale transformations, contour detection, and frequency domain filtering using Python libraries.
+
+This repository presents a comprehensive suite of image processing techniques applied to both grayscale and color images using Python. The project demonstrates key operations such as histogram analysis, contrast enhancement, and frequency domain processing. By leveraging libraries like OpenCV, NumPy, and Matplotlib, the code performs essential tasks including histogram equalization to improve image contrast, Gaussian filtering for blurring, and high-pass filtering to highlight image features. Data preprocessing steps such as grayscale conversion, histogram equalization, and frequency domain transformations are employed to enhance image quality and extract meaningful features. The code showcases various visualizations to illustrate the effects of these techniques, making it a valuable resource for understanding and applying image processing methods in practical scenarios.
+
